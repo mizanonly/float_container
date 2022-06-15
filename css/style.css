@@ -1,0 +1,52 @@
+.header{
+    min-height: 30px;
+    background-color: #089a51;
+}
+.com{
+    height: 0px;
+    color:aliceblue;
+    text-align: center;
+}   
+.container{
+    overflow: hidden;
+    
+    border: 30px solid black;
+    min-height: 200px;
+    
+}
+
+
+.tiger{
+    float: left;
+    width: 50%;
+    min-height: 200px;
+    background-color: aqua;
+   
+
+}
+.timg{
+    
+    min-height: 200px;
+    width: 100%;
+}
+
+.lion{
+    float: right;
+    width: 50%;
+    min-height: 200px;
+    
+    background-color: blueviolet;
+}
+.limg {
+    
+    min-height: 200px;
+    width: 100%;
+
+}  
+.footer{
+    height: 30px;
+    background-color: rgb(97, 3, 105);
+        
+    
+
+}
